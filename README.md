@@ -1,4 +1,7 @@
 # Ipea_plataformas-digitais_IRAMUTEQ
+
+Padronização utilizada para a construção da base de dados de teses e dissertações e análises no IRaMuTeQ analisada no artigo: “Plataformas digitais”: mapeamento sistemático e interdisciplinar do conhecimento produzido nas universidades brasileiras.
+
 De modo geral, o código apresenta uma estrutura de repetição que inicialmente deixa todas as letras minúsculas e em seguida substituí cada conjunto de strings 
 por outro conjunto adequado ao IRaMuTeQ, conforme revisão segundo os pesquisadores e seguindo as orientações de SALVIATI (2017).
 
